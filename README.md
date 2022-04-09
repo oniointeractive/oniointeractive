@@ -40,7 +40,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Crestron Tutorial: React & SIMPL#Pro Full Stack App](https://www.youtube.com/channel/UCywHymO7uV25vW5DzONDdwg)
+- [Crestron Tutorial: React & SIMPL#Pro Full Stack App](https://youtu.be/tZL5xOCtf6Y)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCywHymO7uV25vW5DzONDdwg)
