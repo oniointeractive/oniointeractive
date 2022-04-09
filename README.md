@@ -1,4 +1,5 @@
-- 👋 Hi, we are Onio Interactive
+# Hi there, we are ONIO Interactive, aka Crestron Software Providers 👋 
+
 - 👀 We're interested in designing audiovisual systems and developing Crestron software for them
 - 🌱 We're currently honing my skills in React, .NET, and Python
 - 👯 We're looking to collaborate on the audiovisual Crestron projects, by designing complex and big enterprise systems, and then programming them, so you can have the best audiovisual experience!
