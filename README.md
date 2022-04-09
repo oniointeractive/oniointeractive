@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Onio Interactive
-- 👀 I’m interested in designing audiovisual systems and developing software for them
+- 👀 I’m interested in designing audiovisual systems and developing Crestron software for them
 - 🌱 I’m currently honing my skills in React, .NET, and Python
 - 💞️ I’m looking to collaborate on the audiovisual Crestron projects, by designing complex and big enterprise systems, and then programming them, so you can have the best audiovisual experience!
 - 📫 You can reach me at filip@oniointeractive.com
