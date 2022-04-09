@@ -50,7 +50,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Upcoming Smart IoT World!](https://oniointeractive.medium.com/)
+- [A smart upcoming IoT world](https://oniointeractive.medium.com/a-smart-upcoming-iot-world-c314c3283c33)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://oniointeractive.medium.com/)
