@@ -10,8 +10,8 @@
 [![website](./img/globe-light.svg)](https://oniointeractive.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://oniointeractive.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCywHymO7uV25vW5DzONDdwg#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCywHymO7uV25vW5DzONDdwg#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/c/OnioInteractive#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/c/OnioInteractive#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/company/onio-interactive#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/company/onio-interactive#gh-dark-mode-only)
@@ -42,8 +42,14 @@
 <!-- YOUTUBE:START -->
 - [Crestron Tutorial: React & SIMPL#Pro Full Stack App](https://youtu.be/tZL5xOCtf6Y)
 <!-- YOUTUBE:END -->
+<!-- YOUTUBE:START -->
+- [Crestron Tutorial - Debugging in Visual Studio](https://youtu.be/3Wa-f6l5q4s)
+<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START -->
+- [Crestron Tutorial - Debugging in JetBrains Rider](https://youtu.be/ltOFNXiAF6Y)
+<!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCywHymO7uV25vW5DzONDdwg)
+➡️ [more videos...](https://www.youtube.com/c/OnioInteractive)
 
 ---
 
@@ -52,14 +58,20 @@
 <!-- BLOG-POST-LIST:START -->
 - [A smart upcoming IoT world](https://oniointeractive.medium.com/a-smart-upcoming-iot-world-c314c3283c33)
 <!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Voice Commands In the AV Industry](https://oniointeractive.medium.com/voice-commands-in-the-audio-video-industry-4f3336cd3685)
+<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Reasons to invest in a smart home](https://oniointeractive.medium.com/reasons-to-invest-in-a-smart-home-44cf307e8992)
+<!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://oniointeractive.medium.com/)
 
 ---
 
 [website]: https://oniointeractive.com/
-[course]: https://www.youtube.com/channel/UCywHymO7uV25vW5DzONDdwg
-[youtube]: https://www.youtube.com/channel/UCywHymO7uV25vW5DzONDdwg
+[course]: https://www.youtube.com/c/OnioInteractive
+[youtube]: https://www.youtube.com/c/OnioInteractive
 [instagram]: https://www.instagram.com/onio_interactive/
 [linkedin]: https://www.linkedin.com/company/onio-interactive/
 [facebook]: https://www.facebook.com/oniointeractive
